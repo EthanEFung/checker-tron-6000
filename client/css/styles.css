@@ -1,0 +1,27 @@
+.square {
+  width: 75px;
+  height: 75px;
+  border: 1px solid black;
+}
+
+.dark {
+  background-color: #555;
+}
+
+.checker {
+  display: inline-block;
+  border: 1px solid black;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.red {
+  background-color: tomato;
+  border: 1px solid tomato;
+}
+
+.black {
+  background-color: black;
+  border: 1px solid black;
+}
